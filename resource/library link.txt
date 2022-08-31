@@ -1,0 +1,13 @@
+https://www.balidev.top/tarik-data-mesin-absen-php-codeigniter/
+
+ZK TIME TAD LIBRARY
+https://github.com/cobisja/tad-php
+
+SOAP
+https://drive.google.com/file/d/1fahSSi1SlxdUOMsQqqeH-jyYN9OHqsMw/view
+
+
+USING XAMPP ENABLE EXTENSION
+php.ini
+extension=soap
+extension=sockets
